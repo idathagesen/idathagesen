@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Hvem er jeg?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Statskundskaber med kommunikativ profil
 
 ```markdown
 Syntax highlighted code block
@@ -40,4 +40,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Kontakt
 
 Mobil: + 45 50 46 69 50
+
 E-mail: ida.thagesen@sodas.ku.dk
+
+Twitter: 
+
+LinkedIn: (linkedin.com/in/ida-thagesen/)
