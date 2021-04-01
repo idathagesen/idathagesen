@@ -1,34 +1,19 @@
-## Ida Thagesen
+## 👋  Ida Thagesen
 
-You can use the [editor on GitHub](https://github.com/idathagesen/idathagesen/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+🎓 Statskundskaber med specialisering i politisk adfærd og avancerede statistiske metoder
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Særlig interesse for data-journalistik, politisk kommunikation og digitale medier
 
-### Hvem er jeg?
+Solid erfaring fra DR Byen og fra IDAs ledelsessekretariat
 
-Statskundskaber med kommunikativ profil
+🤸 Sparta-løber
 
-```markdown
-Syntax highlighted code block
+##
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Udgivelser
+## ✍️Udvalgte udgivelser
 
 # Ræson
 # Detektor
@@ -37,12 +22,16 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 # Redbrick Magazine
 # EU-Commissionen
 
-### Kontakt
+## 💌 Kontakt
 
-Mobil: + 45 50 46 69 50
+📞 45 50 46 69 50
 
-E-mail: ida.thagesen@sodas.ku.dk
+✉️ ida_elmdal_thagesen@hotmail.com
 
-Twitter: 
+## 💌 Se mere
 
-LinkedIn: (linkedin.com/in/ida-thagesen/)
+[Twitter](https://twitter.com/idathagesen?lang=da)
+
+[LinkedIn](linkedin.com/in/ida-thagesen/)
+
+
