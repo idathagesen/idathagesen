@@ -6,7 +6,7 @@
 
 👩‍🎓En statskundskaber med specialisering i politisk adfærd og avancerede statistiske metoder
 
-🧠 En generalist med særlig interesse for data-journalistik, politisk kommunikation, sociale medier og teknologiens indflydelse på vores samfund
+🧠 En generalist med særlig interesse for kreativ formidling af komplicerede emner, data-journalistik, politisk kommunikation, sociale medier og teknologiens indflydelse på vores samfund
 
 🏢 En arbejdsnarkoman med solid erfaring fra DR Byen og fra IDAs ledelsessekretariat
 
